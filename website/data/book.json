@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "An obsessive-compulsive clean freak mixes bleach and ammonia-based cleaners in an enclosed hostel bathroom, creating chloramine gas that kills him within minutes.",
     "long": ""
   },
   "death_type": "Chemical Reaction",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "Cleanliness is next to deadliness."
 }
